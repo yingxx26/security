@@ -1,0 +1,6 @@
+﻿ 一，redis启动
+1，进入E:\Redis-x64-3.0.504
+2，当前目录 cmd
+  redis-server.exe redis.windows.conf
+
+二，启动微服务
