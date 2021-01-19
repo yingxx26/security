@@ -3,4 +3,6 @@
 2，当前目录 cmd
   redis-server.exe redis.windows.conf
 
-二，启动微服务
+二，启动服务
+
+三，访问 http://localhost:8080/imooc-signIn.html
